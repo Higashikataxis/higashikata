@@ -12,8 +12,6 @@ Me chamo Pedro Henrique, sou estudante e curso o ensino tecnico de informatica.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-
 
 
 <h3 align="left">My Stack ~</h3>
@@ -92,12 +90,6 @@ Me chamo Pedro Henrique, sou estudante e curso o ensino tecnico de informatica.
     src="https://github-readme-stats-two-omega-43.vercel.app/api/index/?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
 
 </p>
 
